@@ -1,3 +1,3 @@
-# Machine-Learning
+# Deep Learning via Pytorch
 
-This repository contains the assignments and the quizes given in SMAI course at IIIT Hyderabad
+This repository contains Basics of Pytorch and CNN
